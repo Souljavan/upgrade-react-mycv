@@ -6,7 +6,7 @@ export const CV = {
       email: "jcavanilles@gmail.com",
       birthDate: "09/08/1981",
       phone: "(+34) 638266431",
-      image: "https://i.imgur.com/ZQAkED3.png",
+      image: "/images/Javi250.jpeg",
       gitHub: "https://github.com/Souljavan",
       aboutMe: [
         {

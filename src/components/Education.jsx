@@ -3,8 +3,10 @@ import "./Education.scss"
 
 const Education = ({education})=> { // Proop education
     return (
-        <div>
-          <div className="education card">
+
+          <div className="row education">
+          <div className="col-12">
+          <h2 className="h2 fw-light my-4 text-center">Education</h2>
             {education.map((item) => {
               return (
                 <div key={JSON.stringify(item)}>
@@ -14,8 +16,8 @@ const Education = ({education})=> { // Proop education
                 </div>
               );
             })}
+            </div>
           </div>
-        </div>
       );
 
 }
