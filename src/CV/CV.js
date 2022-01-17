@@ -5,84 +5,73 @@ export const CV = {
       city: "Madrid",
       email: "jcavanilles@gmail.com",
       birthDate: "09/08/1981",
-      phone: "(+34) 638266431",
+      phone: "(+34) 611 111111",
       image: "/images/Javi250.jpeg",
       gitHub: "https://github.com/Souljavan",
       aboutMe: [
         {
-          info: "🤖 My armor, it was never a distraction or a hobby, it was a cocoon. I am Iron Man.",
-        },
-        {
-          info: "🔩 CEO of Stark Industries.",
-        },
-        {
-          info: "🕶 Genius, billionaire, playboy, philanthropist.",
-        },
-        {
-          info: "🦾 I do have a responsibility to keep my inventions from evil hands – but I have a greater responsibility to oppose that evil any way I can.",
-        },
+          info: "I am passionate about the world of programming, especially related to projects related with internet advertising where I have been working the last 15 years.",
+        }
       ],
     },
     education: [
       {
-        name: "Master in physics",
-        date: "1985",
-        where: "MIT",
+        name: "Bootcamp Fullstack Developer",
+        date: "2022 ",
+        where: "Upgrade-Hub",
       },
       {
-        name: "Aeronautical Engineering",
-        date: "1995",
-        where: "ATI Vaughn College",
+        name: "Certificacion Google Campaign manager",
+        date: "2022",
+        where: "Google Academy",
       },
       {
-        name: "Weapons Engineer",
-        date: "1998",
-        where: "Firearm Collegue, Queens",
+        name: "Curso  Javascript",
+        date: "2020",
+        where: "AEPI",
       },
+      {
+        name: "FP: Técnico especialista en informatica de Empresa",
+        date: "1999",
+        where: "CPR Teide",
+      },
+     
     ],
     experience: [
       {
-        name: "Consultant",
-        date: "01/01/2013 – Nowadays",
-        where: "S.H.I.E.L.D",
+        name: "Ad Operation Manager",
+        date: "2012 – Nowadays",
+        where: "GroupM",
         description:
-          "It builds the helicarriers used by S.H.I.E.L.D. It produces the Quinjets used by the Avengers.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 150",
       },
       {
-        name: "CEO",
-        date: "01/01/2000 – 28/02/2012",
-        where: "Stark Industries",
+        name: "Head of Operations",
+        date: "2009 – 2012",
+        where: "Fox International",
         description:
-          "Manage the company, which is a multi-billion dollar multinational corporation that develops and manufactures advanced weapon and defense technologies. The company manufactures the armor worn by Iron Man and War Machine.",
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 150",
+      },
+      {
+        name: "Trafficker manager",
+        date: "2007 – 2009",
+        where: "Antena 3",
+        description:
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 150",
       },
     ],
     languages: {
       language: "English",
-      wrlevel: "Native",
-      splevel: "Native",
+      wrlevel: "Medium High",
+      splevel: "Medium",
     },
     habilities: [
-      "Robotics",
-      "Robot Programming",
-      "Physics",
-      "Weaponery",
-      "Engineer",
-      "Money",
-      "Dating",
-      "Saving the world",
-    ],
-    volunteer: [
-      {
-        name: "September Foundation",
-        where: "MIT",
-        description:
-          "The September Foundation is a program by Tony Stark to fund schools and young prodigies in their education. The foundation was named by Stark after a lyric from The Fantasticks song, 'Try to Remember,' which he heard his mother sing and play on the piano before her death.",
-      },
-      {
-        name: "Damage Control",
-        where: "U.S.A.",
-        description:
-          "The United States Department of Damage Control, occasionally known as the DODC, is a department of the United States of America. Initially a subsidiary of S.H.I.E.L.D., Damage Control was an organization specializing in post-battle clean-up. Following the Battle of New York, Damage Control was made into an executive branch of the United States government, and in a joint venture with Stark Industries, was tasked with acquiring alien and other dangerous artifacts along with cleaning up damages caused by enhanced individuals.",
-      },
-    ],
+      "Javascript",
+      "Python",
+      "Angular",
+      "React",
+      "Programmatic advertisement",
+      "Campaign Manager",
+      "Sizmek SAS"
+    ]
   };

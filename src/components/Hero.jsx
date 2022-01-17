@@ -14,12 +14,10 @@ const Hero = ({hero}) => {   //El segun Hero es el props recibido desde APP
   <img src={hero.image} className="card-img-top" alt="Javi" />
   <div className="card-body">
     <h6 className="card-title">{hero.name} {hero.Surname}</h6>
-    <p className="card-text">
-    <p ><BsFillCalendarDayFill /> {hero.birthDate}</p>
+    
     <p ><BsMailbox2 /><a href={"mailto:" + hero.email}> {hero.email}</a></p>
     <p><AiFillMobile /> {hero.phone}</p>
-    <p><AiFillGithub /><a href={hero.gitHub}>Github</a></p>
-    </p>
+
   </div>
         </div>
           </div>
